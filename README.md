@@ -38,6 +38,13 @@ In this module the user can cancel their name which is registered for the Book.
 
 Star UML
 
+```
+NAME:KATHIRVEL.A
+REG NO:212221230047
+```
+
+
+
 ### UML Diagrams:
 
 ## USE CASE DIAGRAM:
